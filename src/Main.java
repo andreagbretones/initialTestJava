@@ -12,9 +12,6 @@ public class Main {
 
         int opcion;
 
-        discos.add(new Disco("gato", "yo", 3, 3f));
-        discos.add(new Disco("perro", "tu", 2, 4f));
-
         do {
             System.out.println("_______MENÚ_______");
             System.out.println("");
